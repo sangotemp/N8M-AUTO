@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "mcp-server-github",
+      "env": {
+        "GITHUB_TOKEN": "op://Programing/github-mcp-token/token"
+      }
+    },
+    "n8n-api": {
+      "command": "node",
+      "args": ["./mcp-servers/n8n-server.js"],
+      "env": {
+        "N8N_API_KEY": "op://Programing/n8n-api-key/credential",
+        "N8N_BASE_URL": "http://localhost:5678"
+      }
+    }
+  }
+}
