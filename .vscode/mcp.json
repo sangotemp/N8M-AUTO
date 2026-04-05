@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "1password-secrets": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp-server/src/index.js"],
+      "env": {}
+    }
+  }
+}
