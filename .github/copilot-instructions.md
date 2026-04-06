@@ -41,7 +41,7 @@ docker compose down
 ## Conventions
 
 - **Secrets management**: All credentials go through the `secrets-manager` agent with 1Password — see `docs/1PASSWORD_SETUP.md`
-- **Vault**: Use the shared `Programing` vault (ID: `nhqglql2e6aig6er5zz6vbkwwq`) for all n8n-auto secrets
+- **Vault**: Use the shared `Programing` vault for all n8n-auto secrets
 - **op:// references**: Use 1Password secret references for runtime credential injection — see `docs/1PASSWORD_MCP_SECURITY.md`
 - **Agent memory**: Each agent has its own `.memories/<agent-name>/` folder to store context and decisions
 - Tout changement d'infra passe par le sysadmin agent

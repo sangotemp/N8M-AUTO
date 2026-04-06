@@ -1,7 +1,6 @@
 # 🧪 Test Results - 1Password Integration & MCP
 **Date**: April 5, 2026  
 **Credential**: `n8n-admin-test` in Programing vault  
-**ID**: `a5r2bpzytx2oqkpzala2ars3eu`  
 **Reference**: `op://Programing/n8n-admin-test/password`
 
 ---

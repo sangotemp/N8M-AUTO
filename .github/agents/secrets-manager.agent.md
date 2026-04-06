@@ -47,7 +47,7 @@ You manage all secrets, credentials, and sensitive environment variables using 1
 
 ## 1Password Vault Configuration
 
-**Project Vault**: `Programing` (ID: `nhqglql2e6aig6er5zz6vbkwwq`)
+**Project Vault**: `Programing`
 
 This is the vault where all n8n-auto secrets are stored and managed.
 

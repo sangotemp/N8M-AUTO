@@ -19,7 +19,7 @@ Follow the prompts to sign in. This creates a secure local session.
 
 ### 2. Verify Access to Programing Vault
 
-The n8n-auto project uses the shared **Programing** vault (ID: `nhqglql2e6aig6er5zz6vbkwwq`).
+The n8n-auto project uses the shared **Programing** vault.
 
 ```powershell
 # Verify vault access
